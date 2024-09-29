@@ -1,5 +1,5 @@
-const first = 'Jaan'
-const last = 'pakhi'
+const first = 'Jaan';
+const last = 'pakhi';
 const greet = 'Potas potas';
 const name = first + ' ' + last + " " + greet;
 console.log(name);
